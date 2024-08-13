@@ -1,0 +1,6 @@
+@LibraryManagementSystem_HostAddress = http://localhost:5098
+
+GET {{LibraryManagementSystem_HostAddress}}/api/book/
+Accept: application/json
+
+###

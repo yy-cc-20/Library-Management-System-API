@@ -1,0 +1,36 @@
+2024-07-26 15:14:54.8102 INFO Returned 10 books from database.
+2024-07-26 15:46:49.3706 INFO Returned 10 books from database.
+2024-07-26 15:47:00.2789 INFO Returned 10 books from database.
+2024-07-26 15:47:22.3239 INFO Returned 10 books from database.
+2024-07-26 15:47:48.4064 INFO Returned book with id: 2c1541b8-3a93-47bf-9ab7-fbe807bdf68d
+2024-07-26 15:57:40.9313 INFO Returned 10 books from database.
+2024-07-26 16:00:34.8029 INFO Returned 12 books from database.
+2024-07-26 16:01:05.2427 INFO Returned book with id: 08dcad48-bd22-4a80-8215-67153f73ec8c
+2024-07-26 16:09:32.6080 INFO Returned 12 books from database.
+2024-07-26 16:11:27.1364 INFO Returned book with id: 08dcad4a-833e-4dae-89d7-f5bfb30c3a01
+2024-07-26 16:14:12.2933 INFO Returned 12 books from database.
+2024-07-26 16:28:14.7622 INFO hi1
+2024-07-26 16:28:15.5499 INFO Returned 12 books from database.
+2024-07-26 16:32:40.8407 INFO Create book with id: 08dcad4d-8316-4cfb-896b-6abaf4d494eb
+2024-07-26 16:33:14.0014 INFO Returned book with id: 08dcad4d-8316-4cfb-896b-6abaf4d494eb
+2024-07-26 16:33:39.4210 INFO Update book with id: 08dcad4d-8316-4cfb-896b-6abaf4d494eb
+2024-07-26 16:33:50.9272 INFO Delete book with id: 08dcad4d-8316-4cfb-896b-6abaf4d494eb
+2024-07-26 16:34:07.3303 INFO Returned 12 books from database.
+2024-07-26 16:34:34.0007 ERROR Book with id: 08dcad4d-8316-4cfb-896b-6abaf4d494eb, hasn't been found in db.
+2024-07-26 16:35:23.8752 INFO Returned 12 books from database.
+2024-07-26 16:35:31.9308 INFO Returned 12 books from database.
+2024-07-26 16:35:52.8879 INFO Returned 1 books from database.
+2024-07-26 16:36:08.5357 INFO Returned 2 books from database.
+2024-07-26 16:36:39.1587 INFO Returned 6 books from database.
+2024-07-26 16:46:54.8718 INFO Hi1
+2024-07-26 16:46:55.7891 INFO Create book with id: 08dcad4f-80d0-47ab-88db-403cffdfbaf4
+2024-07-26 17:25:03.2086 INFO Create book with id: 08dcad54-d3e4-4ce1-8be3-d43053e8ed09
+2024-07-26 17:25:19.7825 INFO Returned book with id: 08dcad54-d3e4-4ce1-8be3-d43053e8ed09
+2024-07-26 17:25:53.9957 INFO Update book with id: 08dcad54-d3e4-4ce1-8be3-d43053e8ed09
+2024-07-26 17:26:07.3571 INFO Delete book with id: 08dcad54-d3e4-4ce1-8be3-d43053e8ed09
+2024-07-26 17:26:25.3391 INFO Returned 13 books from database.
+2024-07-26 17:26:48.8548 INFO Returned 13 books from database.
+2024-07-26 17:27:02.0288 INFO Returned 1 books from database.
+2024-07-26 17:27:18.8714 INFO Returned 13 books from database.
+2024-07-26 17:27:43.9738 INFO Returned 2 books from database.
+2024-07-26 17:28:06.7038 INFO Returned 6 books from database.

@@ -1,0 +1,3 @@
+2024-08-05 10:41:52.1497 INFO Returned 14 books from database.
+2024-08-05 14:51:25.9189 INFO Returned 14 books from database.
+2024-08-05 14:51:44.1773 INFO Returned 10 categories from database.

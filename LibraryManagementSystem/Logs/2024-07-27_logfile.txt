@@ -1,0 +1,4 @@
+2024-07-27 00:29:01.6905 INFO Returned 6 books from database.
+2024-07-27 00:52:11.8466 INFO Returned 6 books from database.
+2024-07-27 00:52:34.6045 INFO Returned book with id: 2c1541b8-3a93-47bf-9ab7-fbe807bdf68d
+2024-07-27 00:58:56.6512 INFO Create book with id: 08dcad94-3cc1-4458-8f66-146b367bd147
